@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LoaiVeList>
+    <LoaiVe>
+        <MaVe>L001</MaVe>
+        <TenVe>Vé Ngày</TenVe>
+    </LoaiVe>
+    <LoaiVe>
+        <MaVe>L002</MaVe>
+        <TenVe>Vé Tháng</TenVe>
+    </LoaiVe>
+</LoaiVeList>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViTriList>
+    <ViTri>
+        <MaViTri>VT001</MaViTri>
+        <TenViTri>Vi Tri 1</TenViTri>
+        <MaKhuVuc>KV001</MaKhuVuc>
+    </ViTri>
+    <ViTri>
+        <MaViTri>VT002</MaViTri>
+        <TenViTri>Vi Tri 2</TenViTri>
+        <MaKhuVuc>KV002</MaKhuVuc>
+    </ViTri>
+     <ViTri>
+        <MaViTri>VT003</MaViTri>
+        <TenViTri>Vi Tri 3</TenViTri>
+        <MaKhuVuc>KV003</MaKhuVuc>
+    </ViTri>
+    <ViTri>
+        <MaViTri>VT004</MaViTri>
+        <TenViTri>Vi Tri 4</TenViTri>
+        <MaKhuVuc>KV004</MaKhuVuc>
+    </ViTri>
+     <ViTri>
+        <MaViTri>VT005</MaViTri>
+        <TenViTri>Vi Tri 5</TenViTri>
+        <MaKhuVuc>KV005</MaKhuVuc>
+    </ViTri>
+    <ViTri>
+        <MaViTri>VT006</MaViTri>
+        <TenViTri>Vi Tri 6</TenViTri>
+        <MaKhuVuc>KV006</MaKhuVuc>
+    </ViTri>
+    <!-- Add more ViTri entries as needed -->
+</ViTriList>

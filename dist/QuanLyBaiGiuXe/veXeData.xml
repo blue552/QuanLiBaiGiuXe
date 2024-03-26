@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VeNgayList>
+    <VeNgay>
+        <MaVe>VN001</MaVe>
+        <LoaiXe>Motorbike</LoaiXe>
+        <BienSo>XX-12345</BienSo>
+        <MauXe>Black</MauXe>
+        <KhuVuc>KhuVuc1</KhuVuc>
+        <ViTri>ViTri1</ViTri>
+        <GioNhan>12:00:00</GioNhan>
+        <NgayNhan>2022-01-20</NgayNhan>
+    </VeNgay>
+    <VeNgay>
+        <MaVe>VN002</MaVe>
+        <LoaiXe>Car</LoaiXe>
+        <BienSo>YY-67890</BienSo>
+        <MauXe>Red</MauXe>
+        <KhuVuc>KhuVuc2</KhuVuc>
+        <ViTri>ViTri2</ViTri>
+        <GioNhan>14:30:00</GioNhan>
+        <NgayNhan>2022-01-21</NgayNhan>
+    </VeNgay>
+    <!-- Add more VeNgay entries as needed -->
+</VeNgayList>

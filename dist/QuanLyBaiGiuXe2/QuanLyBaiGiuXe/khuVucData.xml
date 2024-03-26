@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KhuVucList>
+    <KhuVuc>
+        <MaKhuVuc>KV001</MaKhuVuc>
+        <TenKhuVuc>Khu Vuc 1</TenKhuVuc>
+    </KhuVuc>
+    <KhuVuc>
+        <MaKhuVuc>KV002</MaKhuVuc>
+        <TenKhuVuc>Khu Vuc 2</TenKhuVuc>
+    </KhuVuc>
+        <KhuVuc>
+        <MaKhuVuc>KV003</MaKhuVuc>
+        <TenKhuVuc>Khu Vuc 3</TenKhuVuc>
+    </KhuVuc>
+        <KhuVuc>
+        <MaKhuVuc>KV004</MaKhuVuc>
+        <TenKhuVuc>Khu Vuc 4</TenKhuVuc>
+    </KhuVuc>
+    <KhuVuc>
+        <MaKhuVuc>KV005</MaKhuVuc>
+        <TenKhuVuc>Khu Vuc 5</TenKhuVuc>
+    </KhuVuc>
+    <KhuVuc>
+        <MaKhuVuc>KV006</MaKhuVuc>
+        <TenKhuVuc>Khu Vuc 6</TenKhuVuc>
+    </KhuVuc>
+</KhuVucList>
