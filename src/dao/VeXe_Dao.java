@@ -177,9 +177,13 @@ public class VeXe_Dao {
                     veNgay.setNgayNhan(parsedDate2);
                     ViTri_Dao daovt = new ViTri_Dao();
                     KhuVuc_Dao daokv = new KhuVuc_Dao();
+                     SimpleDateFormat timeFormat = new SimpleDateFormat("HH:mm:ss");
+
+                        // Parse the GioNhan string to a Date object
+                        Date parsedTime = timeFormat.parse(GioNhan);
                     if (!GioTra.equals("null")) {
                         Date parsedDate3 = dateFormat2.parse(NgayTra);
-                        Date parsedDate4 = dateFormat.parse(GioTra);
+                        Date parsedDate4 = timeFormat.parse(GioTra);
                         Time gioTra = new Time(parsedDate4.getTime());
                         veNgay.setGioTra(gioTra);
                         veNgay.setNgayTra(parsedDate3);
